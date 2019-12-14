@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+body{
+    overflow-x: hidden;
+}
+html{
+    font-size: 62.5%;
+}
+canvas
+{
+    margin: 3rem 18rem 
+}
